@@ -1,0 +1,203 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: white;
+}
+
+.navbar {
+  background-color: #007bff;
+  color: white;
+}
+
+nav button span {
+  color: white;
+}
+
+.navbar a {
+  white;
+}
+
+.quiero-ayudar {
+  background-color: #007bff;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: white;
+}
+
+.quiero-ayudar a:hover {
+  color: white;
+}
+
+.el-proyecto {
+  padding: 30px;
+}
+
+.el-proyecto h2 {
+  text-align: center;
+}
+
+.bullets {
+  background-image: url('/theme/images/cambalache-fondo.png');
+  text-align: center;
+  color: white;
+  padding: 30px;
+}
+
+.casa-cambalache .col-md-6 {
+  text-align: center;
+  padding: 0px;
+}
+
+.casa-cambalache h1 {
+  margin-top: 15px;
+}
+
+.casa-cambalache p {
+  padding: 20px;
+}
+
+
+.objetivos {
+  text-align: center;
+}
+
+.objetivos i {
+  font-size: 80px;
+}
+
+.objetivos-proyecto {
+  background-image: url('/theme/images/cambalache-fondo.png');
+  color: white;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.triple-impacto {
+  text-align: center;
+  color: white;
+  background-color: #007bff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.triple-impacto .row {
+  margin-top: 30px;
+}
+
+.triple-impacto i{
+  font-size: 80px;
+}
+
+.informes {
+  text-align: center;
+}
+
+.informes h2 {
+  margin-bottom: 30px;
+}
+
+
+.video-presen video {
+  width: 100%;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.sponsors {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 60px;
+}
+
+.sponsors .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.sponsors img {
+  max-width: 200px;
+  max-height: 90px;
+}
+
+.sponsors h1 {
+  margin-bottom: 30px;
+  margin-top: 60px;
+}
+
+.ong h1 {
+  margin-bottom: 50px;
+}
+
+.ong img {
+  text-align: center;
+  max-width: 400px;
+  max-height: 100px;
+}
+
+.apoyan h1 {
+  margin-bottom: 30px;
+}
+
+.formulario {
+  color: white;
+  background-color: #007bff;
+  padding: 30px;
+}
+
+.formulario h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.formulario .btn {
+  background-color: white;
+  color: #007bff;
+}
+
+
+
+footer {
+  color: white;
+  background-color: #0059dd;
+  width: 100%;
+}
+
+.footer a:hover {
+  color: white;
+}
+
+.fix-footer {
+  position: fixed;
+  bottom: 0px;
+}
+
+.articulo {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.articulo-titulo {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #007bff;
+}
+
+.otros-informes {
+  margin-bottom: 100px;
+}
